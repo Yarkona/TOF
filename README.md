@@ -1,6 +1,18 @@
-### A Brief Introduction for TOF  Framework Source Code
+# Target-oriented Fine-tuning for Zero-resource Named Entity Recognition
 
-1. Data Preparation
+This repository contains the code of the recent research advances.
+
+**Target-Oriented Fine-tuning for Zero-resource Named Entity Recognition **
+
+Ying Zhang, Fandong Meng, Yufeng Chen, Jian Xu and Jie Zhou in Findings of ACL 2021.
+If you find this repo helpful, please cite the following:
+
+For any question, please feel free to post Github issues.
+
+## Install Requirements
+We build our project on pytorch==1.2 and pytorch_pretrained_bert==0.6.1. The most of source code are based on [AdaptaBERT](https://github.com/xhan77/AdaptaBERT) and [mrc-for-flat-nested-ner](https://github.com/ShannonAI/mrc-for-flat-nested-ner/tree/master).
+
+## Data Preparation
 
    1. Enter the data directory
 
@@ -102,7 +114,7 @@
          
             `bash ./continual_train/MRC/gen_mrc_ner_datasets.sh`
 
-2. Training
+## Training
 
    1. Enter into the directory of scripts:
 
@@ -120,7 +132,8 @@
 
       bash run_sci_continual.sh
 
-3. Testing: evaluate the checkpoint with command eval_ckpt.sh
+## Testing: 
+   evaluate the checkpoint with command eval_ckpt.sh
 
    `cd ./scripts`
 
