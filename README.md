@@ -7,21 +7,14 @@ Ying Zhang, Fandong Meng, Yufeng Chen, Jian Xu and Jie Zhou in Findings of ACL 2
 
 If you find this repo helpful, please cite the following:
 
-@misc{zhang2021targetoriented, 
-
-      title={Target-Oriented Fine-tuning for Zero-Resource Named Entity Recognition}, 
-      
-      author={Ying Zhang and Fandong Meng and Yufeng Chen and Jinan Xu and Jie Zhou}, 
-      
-      year={2021}, 
-      
-      eprint={2107.10523}, 
-      
-      archivePrefix={arXiv}, 
-      
-      primaryClass={cs.CL} 
-      
-} 
+      @misc{zhang2021targetoriented, 
+           title={Target-Oriented Fine-tuning for Zero-Resource Named Entity Recognition}, 
+           author={Ying Zhang and Fandong Meng and Yufeng Chen and Jinan Xu and Jie Zhou}, 
+           year={2021}, 
+           eprint={2107.10523}, 
+           archivePrefix={arXiv}, 
+           primaryClass={cs.CL} 
+     } 
 
 For any question, please feel free to post Github issues.
 
