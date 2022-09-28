@@ -1,9 +1,9 @@
 # Target-oriented Fine-tuning for Zero-resource Named Entity Recognition
 
 This repository contains the code of the recent research advances in Paper 
-*Target-Oriented Fine-tuning for Zero-resource Named Entity Recognition*. 
+[*Target-Oriented Fine-tuning for Zero-resource Named Entity Recognition*](https://aclanthology.org/2021.findings-acl.140/). 
 
-Ying Zhang, Fandong Meng, Yufeng Chen, Jian Xu and Jie Zhou in Findings of ACL 2021.
+[Ying Zhang](https://scholar.google.com.hk/citations?user=cMb-VR4AAAAJ&hl=en&oi=sra), Fandong Meng, Yufeng Chen, Jian Xu and Jie Zhou in Findings of ACL 2021.
 
 If you find this repo helpful, please cite the following:
 
